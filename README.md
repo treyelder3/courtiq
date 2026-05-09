@@ -30,10 +30,15 @@ cd server
 npm install
 npm start
 
-### 4. Start the frontend
+### 3. Start the frontend
 cd client
 npm install
 npm start
 
-### 5. Open the app
+### 4. Open the app
 Go to http://localhost:3000 in your browser.
+
+### Files and Folders
+The Cleaning+Preprocessing file contains all cleaning and preprocessing steps for the data we used.
+The client folder contains all files for the frotend, including the webpages and the UI.
+The server folder contains all files for the backend, including routes, dependencies, and the configuration to connect to the database.
