@@ -3,9 +3,7 @@
 A website for exploring men's professional ATP tennis data including player stats, tournament history, ranking trends, and match results.
 
 ## Project Description
-CourtIQ allows users to search for specific players, browse tournament histories, 
-and explore how match results and player performance have evolved across different 
-seasons and surfaces.
+Professional tennis data is widely accessible but difficult for fans to explore in a structured and meaningful way. Raw datasets contain rich information about players, matches, rankings, and tournaments. However, extracting useful insights typically requires complex querying and data manipulation beyond the reach of the average fan. CourtIQ addresses this problem by providing an interactive platform that makes professional men's tennis data explorable for anyone. CourtIQ allows users to search for specific players, browse tournament histories, and explore how match results and player performance have evolved across different seasons and surfaces. The platform combines interactive database queries with visualizations to help users explore trends and comparisons in professional tennis, in a clean and user-friendly interface.
 
 ### Dependencies
 ### Frontend
